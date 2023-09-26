@@ -13,3 +13,20 @@ var shoes = 5;
 var pen = 10;
 var shirt = 15;
 var pant = 20;
+
+// variable types: string, numeric, boolean
+
+// string:
+var name = "salman khan";
+var location = "bangladesh";
+var person = "sharuk khan";
+
+// numeric:
+var price = 100;
+var money = 10000;
+var temperature = 28;
+
+// boolean: (true(1)/false(0))
+var serious = true;
+var isHappy = true;
+var isSingle = false;
